@@ -1,0 +1,2 @@
+# VeriYapilari-Algoritmalar
+VeriYapilari-Algoritmalar 
